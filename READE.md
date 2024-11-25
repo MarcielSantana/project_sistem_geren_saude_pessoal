@@ -14,8 +14,8 @@ AtividadeFisica
 
 
 Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a MIT License
 
 Contato
 Criado por Marciel de Jesus Santana.
-Sinta-se à vontade para entrar em contato pelo e-mail: marciel@email.com.
+Sinta-se à vontade para entrar em contato pelo e-mail: marcyel.jsclaret17@gmail.com
